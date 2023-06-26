@@ -6,6 +6,7 @@ export default function Home() {
     <div>
       <h1>Hola</h1>
       <h2>Milthon Sigcha</h2>
+      <h3>ver aqui</h3>
     </div>
   )
 }
